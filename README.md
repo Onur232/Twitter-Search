@@ -21,9 +21,9 @@ Just execute jar file and go to URIs stated in "Running the tests" part of this 
 
 ## Running the tests 
 
-There is a jar file created by maven build called "twittersearchapp-0.0.1-SNAPSHOT.jar" in \TwitterApi\target location. This file must be executed for testing.
+There is a jar file created by maven build called "twittersearchapp-0.0.1-SNAPSHOT.jar" in \TwitterApi\target location. This file must be executed for testing. But due to constraints by github, it's not allowed to upload a jar file bigger then 25MB. So I tried to upload zipped file of this JAR file but that file was also bigger than 25MB. So in order to use this project, source codes must be copied and imported in Eclipse or other IDE and must be ran individually. 
 
-To use this software go to ;
+To use this software after executing ;
 
 http://localhost:8080/
 
